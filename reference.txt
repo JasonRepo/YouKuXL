@@ -1,6 +1,12 @@
 LESHI论坛
 
-
+============================================
+如果root了，直接修改build.prop
+ro.product.modle=
+============================================
+改DNS，这个方法无法登陆
+182.92.190.89
+============================================
 How to Changes
 com.youku.tv.WelcomeActivity.smali 中的 2596 和2690 行，
 com.youku.lib.YoukuTVBaseApplication 中的4330行，都是将MODEL改为BRAND
