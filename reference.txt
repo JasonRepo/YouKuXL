@@ -1,0 +1,6 @@
+LESHI论坛
+
+
+How to Changes
+com.youku.tv.WelcomeActivity.smali 中的 2596 和2690 行，
+com.youku.lib.YoukuTVBaseApplication 中的4330行，都是将MODEL改为BRAND
